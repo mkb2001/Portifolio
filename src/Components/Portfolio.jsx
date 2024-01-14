@@ -31,16 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Student Feadback System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to Create a web application to help enhance the capabilities to get data for research students  .",
+    url: "https://github.com/mkb2001/studentfeedbacksystem.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Mobile APP for ordering professional online",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Worked on Mobile app with two other students to help customers get professional help online and also create jobs.",
+    url: "https://github.com/JosephMutyaba/Mob_net_project.git",
+  },
+  {
+    title: "Afrilearn Project",
+    description:
+      "Working with five others as a backend developer to help a fintech app for a startup.",
+    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
   {
     title: "My Resume Site",
@@ -48,12 +54,7 @@ const projectList = [
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  
 ];
 
 const Portfolio = () => {
